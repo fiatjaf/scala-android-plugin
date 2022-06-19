@@ -10,7 +10,7 @@ See also [sample projects](https://github.com/dsvdsv/android-fp-sample)
 
 | Scala  | Gradle | Android Plugin      |
 | ------ | ------ | ------------------- |
-| 2.13.* | 6.6    | 4.0.0, 4.0.2        |
+| 2.13.8 | 6.6    | 4.0.0, 4.0.2        |
 
 ## Installation
 
@@ -41,6 +41,6 @@ The plugin decides scala language version using scala-library's version.
 `build.gradle`
 ```groovy
 dependencies {
-    implementation "org.scala-lang:scala-library:2.13.5"
+    implementation "org.scala-lang:scala-library:2.13.8"
 }
 ```
